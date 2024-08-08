@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #b22222; /* Dark red background to match the logo */
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -24,4 +24,8 @@ main {
 .container {
     max-width: 1200px;
     margin: 0 auto;
+}
+
+h1 {
+    color: #b22222; /* Matching the logo's red */
 }
